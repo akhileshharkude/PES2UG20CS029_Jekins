@@ -5,6 +5,6 @@ using namespace std;
 int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "File Updated\n";
+  cout << "Updated hello.cpp\n";
   return 0;
 }
